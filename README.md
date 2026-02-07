@@ -1,16 +1,101 @@
-# React + Vite
+🎲 Dice Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive Dice Game built using React.
+The game allows users to roll dice, select numbers, and track scores with an intuitive UI.
 
-Currently, two official plugins are available:
+🚀 Live Demo: https://diceeeee.onrender.com
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📂 GitHub Repo: https://github.com/mangalam-srv/Diceeeee
 
-## React Compiler
+📌 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🎯 Interactive dice rolling
 
-## Expanding the ESLint configuration
+🔢 Number selection logic
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📊 Score tracking system
+
+♻️ Reset game functionality
+
+⚡ Fast and responsive UI
+
+🌐 Deployed on Render
+
+🛠️ Tech Stack
+
+Frontend: React.js
+
+Styling: CSS / Styled Components
+
+Deployment: Render
+
+Version Control: Git & GitHub
+
+📂 Project Structure
+Diceeeee/
+├── public/
+│   └── images/
+├── src/
+│   ├── components/
+│   ├── styled/
+│   ├── App.js
+│   └── index.js
+└── package.json
+
+⚙️ Installation & Setup
+
+Clone the repository
+
+git clone https://github.com/mangalam-srv/Diceeeee.git
+
+
+Navigate to the project
+
+cd Diceeeee
+
+
+Install dependencies
+
+npm install
+
+
+Run the project
+
+npm start
+
+
+The app will run on http://localhost:3000
+
+🎮 How to Play
+
+Select a number
+
+Roll the dice
+
+If the dice number matches your selection, you gain points
+
+Otherwise, points are deducted
+
+Keep playing and track your score
+
+📈 Future Improvements
+
+Add sound effects 🎵
+
+Improve animations 🎞️
+
+Add difficulty levels
+
+Make it mobile-first 📱
+
+👨‍💻 Author
+
+Mangalam
+
+B.Tech CSE Student
+
+DSA in C++ | MERN | React
+
+Exploring AI integration with web apps
+
+🔗 GitHub: https://github.com/mangalam-srv
